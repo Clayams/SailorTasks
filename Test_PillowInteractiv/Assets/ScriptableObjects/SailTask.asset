@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c9b7c481c45ca54eb3061bc5ba53c95, type: 3}
+  m_Name: SailTask
+  m_EditorClassIdentifier: 
+  taskName: Sail Task
+  taskDescription: The sailor go near the sail to fold it or unfold it.
+  energyCost: 50
+  duration: 15
