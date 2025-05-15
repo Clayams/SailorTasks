@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TelescopeTask
   m_EditorClassIdentifier: 
   taskName: Telescope Task
-  taskDescription: The sailor will go to the telescope and see if they're enemies
+  taskDescription: The sailor will go to the telescope and see if there are enemies
     in sight.
   energyCost: 25
   duration: 20

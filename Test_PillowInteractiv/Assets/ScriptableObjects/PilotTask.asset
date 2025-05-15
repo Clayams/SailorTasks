@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: PilotTask
   m_EditorClassIdentifier: 
   taskName: PilotTask
-  taskDescription: The sailor is going to the boat helm's to pilot it.
+  taskDescription: The sailor is going to the boat helm to pilot it.
   energyCost: 35
   duration: 15
